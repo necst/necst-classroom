@@ -1,9 +1,9 @@
 # README
 
-Questo repository contiene informazioni utili per creare e gestire [Gihtub Classroom](https://classroom.github.com/classrooms), creare nuovi esercizi, condividerli con gli studenti e tenere traccia dei loro progressi.
-Viene spiegato come combinare Gihtub Classroom con [Repl.it](repl.it), per fornire agli studenti un'interfaccia e un terminale su cui lavorare, direttamente da browser, senza dover scaricare o installare nulla.
+Questo repository contiene informazioni utili per creare e gestire [GitHub Classroom](https://classroom.github.com/classrooms), creare nuovi esercizi, condividerli con gli studenti e tenere traccia dei loro progressi.
+Viene spiegato come combinare GitHub Classroom con [Repl.it](repl.it), per fornire agli studenti un'interfaccia e un terminale su cui lavorare, direttamente da browser, senza dover scaricare o installare nulla.
 
-Tutte le guide sono salvate nella Wiki di questo repository.
+Tutte le guide sono salvate nella [Wiki](https://github.com/necst/necst-classroom/wiki) di questo repository.
 
 *** 
 
